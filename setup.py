@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='peter-sort',
+    name='bintang-sort',
     version='0.1.7',
     description='Sorting methods',
     long_description=open('README.md').read(),
